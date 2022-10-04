@@ -1,0 +1,42 @@
+DATI:
+pasta sfoglia
+carne macinata
+carote
+cipolle
+pomodoro
+besciamella
+
+		1) Preparare il Ragù
+		1.1) Inserire nella pentola la carne macinata
+		1.2) Inserire nella pentola le carote
+		1.3) Inserire nella pentola le cipolle
+		1.3) Inserire nella pentola il sedano
+		1.4) Accendere il fuoco
+		1.5) Mettere la pentola sul fuoco
+		1.6) Lasciare cucinare per 10 min
+		1.7) SE (Ragù non è pronto)
+		 	ALLORA torna a 1.6
+		 
+		2) Prendere la Pirofila
+		2.1 Prendere un po' di ragù e posizionarlo nella pirofila
+		2.2 Prendere un po' di Besciamella e posizionarla nella pirofila
+		2.3 Prendere una sfoglia di pasta e posizionarla nella pirofila
+		2.4 SE (c'è ancora ragù E c'è ancora besciamella E c'è ancora sfoglia)
+			ALLORA torna al 2.1
+		
+	
+		3) Accendere il forno a 170 gradi
+		3.1) Aspettare 10 min
+		3.2) SE (il forno NON è a 170 gradi)
+			ALLORA torna a 3.1
+			
+		3.3) Inserire la pirofila nel forno
+		3.4) Aspettare 10 min
+		3.5) SE (le lasagne non sono cotte)
+			ALLORA torna a 3.4
+			
+
+		4) Togliere le lasagne dal forno
+		5) BUON APPPETITO!
+	
+	
